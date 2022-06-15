@@ -1,0 +1,16 @@
+C:\Users\Inacio\Desktop\Estudo\ModoConsole\bin\Debug\net5.0\ModoConsole.exe
+C:\Users\Inacio\Desktop\Estudo\ModoConsole\bin\Debug\net5.0\ModoConsole.deps.json
+C:\Users\Inacio\Desktop\Estudo\ModoConsole\bin\Debug\net5.0\ModoConsole.runtimeconfig.json
+C:\Users\Inacio\Desktop\Estudo\ModoConsole\bin\Debug\net5.0\ModoConsole.runtimeconfig.dev.json
+C:\Users\Inacio\Desktop\Estudo\ModoConsole\bin\Debug\net5.0\ModoConsole.dll
+C:\Users\Inacio\Desktop\Estudo\ModoConsole\bin\Debug\net5.0\ref\ModoConsole.dll
+C:\Users\Inacio\Desktop\Estudo\ModoConsole\bin\Debug\net5.0\ModoConsole.pdb
+C:\Users\Inacio\Desktop\Estudo\ModoConsole\obj\Debug\net5.0\ModoConsole.csproj.AssemblyReference.cache
+C:\Users\Inacio\Desktop\Estudo\ModoConsole\obj\Debug\net5.0\ModoConsole.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Inacio\Desktop\Estudo\ModoConsole\obj\Debug\net5.0\ModoConsole.AssemblyInfoInputs.cache
+C:\Users\Inacio\Desktop\Estudo\ModoConsole\obj\Debug\net5.0\ModoConsole.AssemblyInfo.cs
+C:\Users\Inacio\Desktop\Estudo\ModoConsole\obj\Debug\net5.0\ModoConsole.csproj.CoreCompileInputs.cache
+C:\Users\Inacio\Desktop\Estudo\ModoConsole\obj\Debug\net5.0\ModoConsole.dll
+C:\Users\Inacio\Desktop\Estudo\ModoConsole\obj\Debug\net5.0\ref\ModoConsole.dll
+C:\Users\Inacio\Desktop\Estudo\ModoConsole\obj\Debug\net5.0\ModoConsole.pdb
+C:\Users\Inacio\Desktop\Estudo\ModoConsole\obj\Debug\net5.0\ModoConsole.genruntimeconfig.cache
